@@ -106,15 +106,6 @@ The implementation includes:
 4. The target network is periodically synchronized with the policy network
 5. Training progress is automatically saved and visualized
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
-## Acknowledgments
 
 - Based on the original DQN paper: "Playing Atari with Deep Reinforcement Learning" (Mnih et al., 2013)
 - Uses the Gymnasium framework for environment simulation
